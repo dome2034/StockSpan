@@ -1,0 +1,41 @@
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\bin\Debug\Stock Span.exe.config
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\bin\Debug\Stock Span.exe
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\bin\Debug\Stock Span.pdb
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\bin\Debug\Stock Span.xml
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock Span.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock_Span.Resources.resources
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock Span.vbproj.GenerateResource.Cache
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock Span.vbproj.CoreCompileInputs.cache
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock Span.exe
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock Span.xml
+E:\งาน ป.โท\Algor\Stock Span\Stock Span\Stock Span\obj\Debug\Stock Span.pdb
+E:\งาน ป.โท\StockSpan\Stock Span\bin\Debug\Stock Span.exe.config
+E:\งาน ป.โท\StockSpan\Stock Span\obj\Debug\Stock Span.exe
+E:\งาน ป.โท\StockSpan\Stock Span\obj\Debug\Stock Span.xml
+E:\งาน ป.โท\StockSpan\Stock Span\obj\Debug\Stock Span.pdb
+E:\งาน ป.โท\StockSpan\Stock Span\bin\Debug\Stock Span.exe
+E:\งาน ป.โท\StockSpan\Stock Span\bin\Debug\Stock Span.pdb
+E:\งาน ป.โท\StockSpan\Stock Span\bin\Debug\Stock Span.xml
+E:\งาน ป.โท\StockSpan\Stock Span\obj\Debug\Stock Span.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\StockSpan\Stock Span\obj\Debug\Stock_Span.Resources.resources
+E:\งาน ป.โท\StockSpan\Stock Span\obj\Debug\Stock Span.vbproj.GenerateResource.Cache
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\bin\Debug\Stock Span.exe.config
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\obj\Debug\Stock Span.exe
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\obj\Debug\Stock Span.xml
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\obj\Debug\Stock Span.pdb
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\bin\Debug\Stock Span.exe
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\bin\Debug\Stock Span.pdb
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\bin\Debug\Stock Span.xml
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\obj\Debug\Stock Span.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\obj\Debug\Stock_Span.Resources.resources
+E:\งาน ป.โท\Algor\StockSpan\Stock Span\obj\Debug\Stock Span.vbproj.GenerateResource.Cache
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\bin\Debug\Stock Span.exe.config
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\obj\Debug\Stock Span.exe
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\obj\Debug\Stock Span.xml
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\obj\Debug\Stock Span.pdb
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\bin\Debug\Stock Span.exe
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\bin\Debug\Stock Span.pdb
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\bin\Debug\Stock Span.xml
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\obj\Debug\Stock Span.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\obj\Debug\Stock_Span.Resources.resources
+E:\งาน ป.โท\Algor\StockSpan\stockspan\Stock Span\obj\Debug\Stock Span.vbproj.GenerateResource.Cache
